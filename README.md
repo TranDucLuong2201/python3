@@ -19,7 +19,7 @@ Trang web này cung cấp các biểu đồ và phân tích về Đầu tư Tr�
 
 ## Công Nghệ Sử Dụng
 
-- **Streamlit**: Khung ứng dụng Python mã nguồn mở giúp tạo các ứng dụng dữ liệu tương tác một cách nhanh chóng và dễ dàng. :contentReference[oaicite:0]{index=0}
+- **Streamlit**: Khung ứng dụng Python mã nguồn mở giúp tạo các ứng dụng dữ liệu tương tác một cách nhanh chóng và dễ dàng.
 
 - **Pandas**: Thư viện Python mạnh mẽ để thao tác và phân tích dữ liệu.
 

@@ -1,3 +1,12 @@
+<h1 align="center">
+    <img width="4%" src="https://images.squarespace-cdn.com/content/v1/5930dc9237c5817c00b10842/1607929454387-Z64LGZAMXVUKBRXCGC0X/35189853_2076230709311065_3947220011839389696_o.png?format=750w">
+    LẬP TRÌNH PYTHON  🚀
+</h1>
+<p align="center">22VLTH - <i>Mini project</i></p>
+<h1 align="center">
+    <img width="%" src="https://vnfdi.com/wp-content/uploads/2022/07/cropped-LogVNFDI-Final.png">
+</h1>
+
 # Trực Quan Hóa Dữ Liệu FDI Việt Nam
 
 Trang web này cung cấp các biểu đồ và phân tích về Đầu tư Trực tiếp Nước ngoài (FDI) vào Việt Nam, giúp người dùng hiểu rõ hơn về xu hướng đầu tư theo ngành, thời gian và so sánh với các quốc gia khác.

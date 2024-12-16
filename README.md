@@ -25,7 +25,7 @@ Trang web này cung cấp các biểu đồ và phân tích về Đầu tư Tr�
 
 ## Chức Năng Chính
 
-1. **Phân Tích Theo Ngành**: Hiển thị biểu đồ trực quan các ngành được đầu tư nhiều nhất, cho phép lọc theo ngành hoặc năm để xem chi tiết.
+1. **Phân Tích Theo Vùng**: Hiển thị biểu đồ bản đồ, phân chia theo thời gian để xem được xu hướng FDI đầu tư tại Việt Nam theo khu vực trên thế giới.
 
 2. **Phân Tích Theo Thời Gian**: Cung cấp biểu đồ xu hướng FDI theo năm, giúp người dùng nhận biết các giai đoạn tăng trưởng và suy giảm trong thu hút đầu tư.
 

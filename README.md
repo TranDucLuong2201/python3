@@ -10,6 +10,16 @@
 # Trực Quan Hóa Dữ Liệu FDI Việt Nam
 
 Trang web này cung cấp các biểu đồ và phân tích về Đầu tư Trực tiếp Nước ngoài (FDI) vào Việt Nam, giúp người dùng hiểu rõ hơn về xu hướng đầu tư theo ngành, thời gian và so sánh với các quốc gia khác.
+# Nhóm: 4 CON CÁ PYTHON
+#### Thành viên:
+
+| ID        | Full name| Description                |
+| :-------- | :------- | :------------------------- |
+| `22130017`| `Ha Gia Bao` | **Leader** |
+| `22130096`| `Tran Duc Luong` | **Member** |
+| `22130167`| `Than Thanh` | **Member** |
+| `22130190`| `Phan Chanh Tinh` | **Member** |
+
 ## UML Diagram
 <p align="center"><a href="https://github.com/TranDucLuong2201/python3.git"><img width="100%" src="UML class.png"></a></p>
 

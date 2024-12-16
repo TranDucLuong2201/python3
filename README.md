@@ -10,6 +10,8 @@
 # Trực Quan Hóa Dữ Liệu FDI Việt Nam
 
 Trang web này cung cấp các biểu đồ và phân tích về Đầu tư Trực tiếp Nước ngoài (FDI) vào Việt Nam, giúp người dùng hiểu rõ hơn về xu hướng đầu tư theo ngành, thời gian và so sánh với các quốc gia khác.
+## UML Diagram
+<p align="center"><a href="https://github.com/TranDucLuong2201/python3.git"><img width="100%" src="UML class.png"></a></p>
 
 ## Chức Năng Chính
 
